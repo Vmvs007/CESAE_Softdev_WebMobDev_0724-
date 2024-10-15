@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">AppRelogio</string>
+    <string name="title_activity_fullscreen" translatable="false">FullscreenActivity</string>
+    <string name="dummy_button" translatable="false">Dummy Button</string>
+    <string name="dummy_content" translatable="false">DUMMY\nCONTENT</string>
+    <string name="button_avancar">ADVANCE</string>
+    <string name="welcome">Welcome</string>
+    <string name="nivel_de_bateria">Battery Level</string>
+
+</resources>

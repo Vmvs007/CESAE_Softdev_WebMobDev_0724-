@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppRelogio</string>
+    <string name="button_avancar">AVANZAR</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="nivel_de_bateria">Nivel de Bateria em Espanhol</string>
+</resources>
